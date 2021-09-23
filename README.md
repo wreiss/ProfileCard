@@ -1,6 +1,6 @@
 <h1><strong>PROFILE CARD</strong></h1>
 <hr>
-  <h2>Linguagens Utilizadas</h2>
+  <strong>Linguagens Utilizadas</strong>
   <ul>
   <li>HTML</li>
   <li>CSS</li>
