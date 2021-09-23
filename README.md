@@ -1,3 +1,5 @@
-Profile Card
+<strong>Profile Card</strong>
 
-Linguagens utilizadas: HTML/CSS
+<ul>Linguagens utilizadas:
+  <li>HTML</li>
+  <li>CSS</li>
