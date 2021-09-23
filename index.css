@@ -1,0 +1,29 @@
+body {
+    font-size: 16px;
+    background: #57606f;
+}
+
+#container-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.card {
+    background: #2C3A47;
+    color: white;
+    padding: 30px;
+    width: 300px;
+    height: 320px;
+    border-radius: 30px;
+    box-shadow:  0 10px 10px rgba(0,0,0,0.2);
+}
+
+.card-top {
+    padding: 10px;
+    padding-top: 0;
+    display: flex;
+    justify-content: center;
+}

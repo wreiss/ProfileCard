@@ -1,0 +1,15 @@
+.card-bottom {
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-bottom h2 {
+    font-size: 1.8rem;
+    padding-top:10px;
+    padding-bottom: 12px; 
+}
+
+.card-bottom p {
+    padding-bottom: 15px;
+    font-size: 12px;
+}
